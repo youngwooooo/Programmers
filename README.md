@@ -8,7 +8,7 @@
 [Level1] 하샤드 수 : https://youngveloper.tistory.com/8 <br>
 [Level1] 콜라츠 추측 : https://youngveloper.tistory.com/9 <br>
 [Level1] 최대공약수와 최소공배수 : https://youngveloper.tistory.com/10 <br>
-<br>
+
 ### 2021-11-13
 <hr>
 [Level1] 직사각형 별찍기 : https://youngveloper.tistory.com/3 <br>
