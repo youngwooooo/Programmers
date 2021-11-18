@@ -2,7 +2,7 @@
 프로그래머스 연습문제 풀이<br>
 코딩테스트를 부숴보자!
 
-<p style="font-size : 1.5rem;">🌱<strong>2021-11-18</strong></p>
+### 🌱 2021-11-18
 [Level1] 평균 구하기 : https://youngveloper.tistory.com/7 <br>
 [Level1] 하샤드 수 : https://youngveloper.tistory.com/8 <br>
 [Level1] 콜라츠 추측 : https://youngveloper.tistory.com/9 <br>
