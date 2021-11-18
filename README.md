@@ -3,12 +3,14 @@
 코딩테스트를 부숴보자!
 
 ### 2021-11-18
+<hr>
 [Level1] 평균 구하기 : https://youngveloper.tistory.com/7 <br>
 [Level1] 하샤드 수 : https://youngveloper.tistory.com/8 <br>
 [Level1] 콜라츠 추측 : https://youngveloper.tistory.com/9 <br>
 [Level1] 최대공약수와 최소공배수 : https://youngveloper.tistory.com/10 <br>
-
+<br>
 ### 2021-11-13
+<hr>
 [Level1] 직사각형 별찍기 : https://youngveloper.tistory.com/3 <br>
 [Level1] x만큼 간격이 있는 n개의 숫자 : https://youngveloper.tistory.com/4 <br>
 [Level1] 행렬의 덧셈 : https://youngveloper.tistory.com/5 <br>
