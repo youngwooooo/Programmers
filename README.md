@@ -8,8 +8,6 @@
 [Level1] 콜라츠 추측 : https://youngveloper.tistory.com/9 <br>
 [Level1] 최대공약수와 최소공배수 : https://youngveloper.tistory.com/10 <br>
 
-<br>
-
 ### 2021-11-13
 [Level1] 직사각형 별찍기 : https://youngveloper.tistory.com/3 <br>
 [Level1] x만큼 간격이 있는 n개의 숫자 : https://youngveloper.tistory.com/4 <br>
