@@ -3,11 +3,13 @@
 코딩테스트를 부숴보자!
 
 ### 🌱 2021-11-21
-[Level1] 이상한 문자 만들기 : https://youngveloper.tistory.com/17
-[Level1] 약수의 합 : https://youngveloper.tistory.com/18
-[Level1] 시저 암호 : https://youngveloper.tistory.com/19
-[Level1] 문자열을 정수로 바꾸기 : https://youngveloper.tistory.com/20
-[Level1] 수박수박수박수박수박수? : https://youngveloper.tistory.com/22
+[Level1] 이상한 문자 만들기 : https://youngveloper.tistory.com/17 <br>
+[Level1] 약수의 합 : https://youngveloper.tistory.com/18 <br>
+[Level1] 시저 암호 : https://youngveloper.tistory.com/19 <br>
+[Level1] 문자열을 정수로 바꾸기 : https://youngveloper.tistory.com/20 <br>
+[Level1] 수박수박수박수박수박수? : https://youngveloper.tistory.com/22 <br>
+<hr>
+
 
 ### 🌱 2021-11-20
 [Level1] 짝수와 홀수 : https://youngveloper.tistory.com/11 <br>
