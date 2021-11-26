@@ -1,6 +1,16 @@
 # Programmers
 프로그래머스 연습문제 풀이<br>
 코딩테스트를 부숴보자!
+<br><br>
+
+### 🌱 2021-11-26
+[Level1] 서울에서 김서방 찾기 : https://youngveloper.tistory.com/23 <br>
+[Level1] 문자열 다루기 기본 : https://youngveloper.tistory.com/24 <br>
+[Level1] 문자열 내림차순으로 배치하기 : https://youngveloper.tistory.com/25 <br>
+[Level1] 문자열 내 p와 y의 개수 : https://youngveloper.tistory.com/26 <br>
+[Level1] 두 정수 사이의 합 : https://youngveloper.tistory.com/27 <br>
+[Level1] 나누어 떨어지는 숫자 배열 : https://youngveloper.tistory.com/28 <br>
+<hr>
 
 ### 🌱 2021-11-21
 [Level1] 이상한 문자 만들기 : https://youngveloper.tistory.com/17 <br>
