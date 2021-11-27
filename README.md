@@ -1,7 +1,12 @@
 # Programmers
 프로그래머스 연습문제 풀이<br>
 코딩테스트를 부숴보자!
-<br><br>
+<br><br><br>
+
+### 🌱 2021-11-27
+[Level1] 같은 글자는 싫어 : https://youngveloper.tistory.com/29 <br>
+[Level1] 가운데 글자 가져오기 : https://youngveloper.tistory.com/30 <br>
+<hr>
 
 ### 🌱 2021-11-26
 [Level1] 서울에서 김서방 찾기 : https://youngveloper.tistory.com/23 <br>
