@@ -3,6 +3,11 @@
 코딩테스트를 부숴보자!
 <br><br><br>
 
+### 🌱 2021-11-30
+[Level1] 소수 찾기
+[Level1] 문자열 내 마음대로 정렬하기
+<hr>
+
 ### 🌱 2021-11-27
 [Level1] 같은 글자는 싫어 : https://youngveloper.tistory.com/29 <br>
 [Level1] 가운데 글자 가져오기 : https://youngveloper.tistory.com/30 <br>
