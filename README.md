@@ -15,7 +15,7 @@
 
 ### 🌱 2021-12-02
 [Level1] 두 개 뽑아서 더하기 : https://youngveloper.tistory.com/37 <br>
-[Level1] 3진법 뒤집기 <br>
+[Level1] 3진법 뒤집기 : https://youngveloper.tistory.com/38 <br>
 <hr>
 
 ### 🌱 2021-12-01
