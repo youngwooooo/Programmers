@@ -3,6 +3,16 @@
 코딩테스트를 부숴보자!
 <br><br><br>
 
+### 🌱 2021-12-03
+[Level1] k번째수  <br>
+[Level1] 모의고사 <br>
+[Level1] 완주하지 못한 선수 <br>
+[Level1] 내적 <br>
+[Level1] 음양 더하기 <br>
+[Level1] 없는 숫자 더하기 <br>
+[Level1] 약수의 개수와 덧셈 <br>
+<hr>
+
 ### 🌱 2021-12-02
 [Level1] 두 개 뽑아서 더하기  <br>
 [Level1] 3진법 뒤집기 <br>
