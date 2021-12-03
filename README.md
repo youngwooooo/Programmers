@@ -19,15 +19,15 @@
 <hr>
 
 ### 🌱 2021-12-01
-[Level1] 부족한 금액 계산하기 <br>
-[Level1] 2016년 <br>
-[Level1] 나머지가 1이 되는 수 찾기 <br>
-[Level1] 최소직사각형 <br>
+[Level1] 부족한 금액 계산하기 : https://youngveloper.tistory.com/33 <br>
+[Level1] 2016년 : https://youngveloper.tistory.com/34 <br>
+[Level1] 나머지가 1이 되는 수 찾기 : https://youngveloper.tistory.com/35 <br>
+[Level1] 최소직사각형 : https://youngveloper.tistory.com/36 <br>
 <hr>
 
 ### 🌱 2021-11-30
-[Level1] 소수 찾기 <br>
-[Level1] 문자열 내 마음대로 정렬하기 <br>
+[Level1] 소수 찾기 : https://youngveloper.tistory.com/31 <br>
+[Level1] 문자열 내 마음대로 정렬하기 : https://youngveloper.tistory.com/32 <br>
 <hr>
 
 ### 🌱 2021-11-27
