@@ -5,7 +5,7 @@
 
 ### 🌱 2021-12-03
 [Level1] k번째수 : https://youngveloper.tistory.com/39 <br>
-[Level1] 모의고사 <br>
+[Level1] 모의고사 : https://youngveloper.tistory.com/40 <br>
 [Level1] 완주하지 못한 선수 <br>
 [Level1] 내적 <br>
 [Level1] 음양 더하기 <br>
