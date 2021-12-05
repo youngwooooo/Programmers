@@ -3,6 +3,16 @@
 코딩테스트를 부숴보자!
 <br><br><br>
 
+### 🌱 2021-12-04 ~ 2021-12-05
+[Level1] 소수 만들기 <br>
+[Level1] 예산 <br>
+[Level1] 체육복 <br>
+[Level1] 폰켓몬 <br>
+[Level1] 로또의 최고 순위와 최저 순위 <br>
+[Level1] 숫자 문자열과 영단어 <br>
+[Level1] 키패드 누르기 <br>
+<hr>
+
 ### 🌱 2021-12-03
 [Level1] k번째수 : https://youngveloper.tistory.com/39 <br>
 [Level1] 모의고사 : https://youngveloper.tistory.com/40 <br>
