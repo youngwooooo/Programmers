@@ -14,8 +14,8 @@
 <hr>
 
 ### 🌱 2021-12-04 ~ 2021-12-05
-[Level1] 소수 만들기 <br>
-[Level1] 예산 <br>
+[Level1] 소수 만들기 : https://youngveloper.tistory.com/46 <br>
+[Level1] 예산 : https://youngveloper.tistory.com/47 <br>
 [Level1] 체육복 <br>
 [Level1] 폰켓몬 <br>
 [Level1] 로또의 최고 순위와 최저 순위 <br>
@@ -26,11 +26,11 @@
 ### 🌱 2021-12-03
 [Level1] k번째수 : https://youngveloper.tistory.com/39 <br>
 [Level1] 모의고사 : https://youngveloper.tistory.com/40 <br>
-[Level1] 완주하지 못한 선수 <br>
-[Level1] 내적 <br>
-[Level1] 음양 더하기 <br>
-[Level1] 없는 숫자 더하기 <br>
-[Level1] 약수의 개수와 덧셈 <br>
+[Level1] 완주하지 못한 선수 : https://youngveloper.tistory.com/41 <br>
+[Level1] 내적 : https://youngveloper.tistory.com/42 <br>
+[Level1] 음양 더하기 : https://youngveloper.tistory.com/43 <br>
+[Level1] 없는 숫자 더하기 : https://youngveloper.tistory.com/44 <br>
+[Level1] 약수의 개수와 덧셈 : https://youngveloper.tistory.com/45 <br>
 <hr>
 
 ### 🌱 2021-12-02
