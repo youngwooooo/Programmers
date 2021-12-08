@@ -6,21 +6,21 @@
 ### ▶ Level 1
 
 ### 🌱 2021-12-06 ~ 2021-12-07
-[Level1] 비밀지도 <br>
-[Level1] 신규 아이디 추천 <br>
-[Level1] 실패율 <br>
-[Level1] 크레인 인형뽑기 게임 <br>
-[Level1] 다트 게임 <br>
+[Level1] 비밀지도 : https://youngveloper.tistory.com/54 <br>
+[Level1] 신규 아이디 추천 : https://youngveloper.tistory.com/55 <br>
+[Level1] 실패율 : https://youngveloper.tistory.com/56 <br>
+[Level1] 크레인 인형뽑기 게임 : https://youngveloper.tistory.com/57 <br>
+[Level1] 다트 게임 : https://youngveloper.tistory.com/58 <br>
 <hr>
 
 ### 🌱 2021-12-04 ~ 2021-12-05
 [Level1] 소수 만들기 : https://youngveloper.tistory.com/46 <br>
 [Level1] 예산 : https://youngveloper.tistory.com/47 <br>
-[Level1] 체육복 <br>
-[Level1] 폰켓몬 <br>
-[Level1] 로또의 최고 순위와 최저 순위 <br>
-[Level1] 숫자 문자열과 영단어 <br>
-[Level1] 키패드 누르기 <br>
+[Level1] 체육복 : https://youngveloper.tistory.com/48 <br>
+[Level1] 폰켓몬 : https://youngveloper.tistory.com/49 <br>
+[Level1] 로또의 최고 순위와 최저 순위 : https://youngveloper.tistory.com/50 <br>
+[Level1] 숫자 문자열과 영단어 : https://youngveloper.tistory.com/51 <br>
+[Level1] 키패드 누르기 : https://youngveloper.tistory.com/52 <br>
 <hr>
 
 ### 🌱 2021-12-03
