@@ -1,7 +1,7 @@
 # Programmers
 프로그래머스 연습문제 풀이<br>
 코딩테스트를 부숴보자!
-<br><br><br><br>
+<br><br><br>
 
 ### ▶ Level 2
 
@@ -12,9 +12,7 @@
 [Level2] 피보나치 수 <br>
 [Level2] 최솟값 만들기 <br>
 <hr>
-
-
-
+<br><br><br>
 
 ### ▶ Level 1
 
