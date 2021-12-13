@@ -6,6 +6,11 @@
 ### ▶ Level 2
 
 ### 🌱 2021-12-08 ~ 2021-12-10
+[Level2] 최대값과 최솟값 <br>
+[Level2] 숫자의 표현<br>
+<hr>
+
+### 🌱 2021-12-08 ~ 2021-12-10
 [Level2] N개의 최소공배수 : https://youngveloper.tistory.com/59 <br>
 [Level2] JadenCase 문자열 만들기 : https://youngveloper.tistory.com/60 <br>
 [Level2] 행렬의 곱셈 <br>
